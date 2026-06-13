@@ -1,0 +1,17 @@
+node_modules
+.next
+.git
+.gitignore
+.env
+.env.local
+.env.*.local
+*.log
+.DS_Store
+.vscode
+.idea
+dist
+coverage
+README.md
+docker-compose.yml
+Dockerfile
+.eslintrc.json
